@@ -5,7 +5,7 @@ You can download the [Shell00.pdf](https://github.com/user-attachments/files/192
 
 ## Helpful Resources
 
-For more details, refer to the **C07.pdf** document and watch the attached video.
+For more details, refer to the **Shell01.pdf** document and watch the attached video.
 https://www.youtube.com/playlist?list=PLxeKVrYoZO6B64HVamfG1d8Jb2XIrNuRO
 
 ##Other resources
